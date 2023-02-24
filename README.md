@@ -10,11 +10,11 @@ I think I did particularly well in implementing and explaining the task schedule
 
 <b>Where could you improve?</b>
 
-	I think that my code could be improved by using the timer callback function to execute the task functionality instead of only raising the global flag. This could improve the readability and maintainability of my code. I also think that I could improve by removing the switch cases within the third task, OutputToServer, that outputs data to the server. This would make my code more efficient as the use of switch cases is redundant in hindsight. However, it was easier for me to create the state diagram by using a state machine for each of the three tasks. 
+I think that my code could be improved by using the timer callback function to execute the task functionality instead of only raising the global flag. This could improve the readability and maintainability of my code. I also think that I could improve by removing the switch cases within the third task, OutputToServer, that outputs data to the server. This would make my code more efficient as the use of switch cases is redundant in hindsight. However, it was easier for me to create the state diagram by using a state machine for each of the three tasks. 
   
 <b>What tools and/or resources are you adding to your support network?</b>
 
-	The driver documentation provided by Texas Instrument was significantly helpful throughout. The reference files for drivers are resources that I am adding to my support network for future projects, whether for an embedded system or not. I am also in contact with a few students from the course who I can consider resources. Code composer studio is a tool that I am adding to my support network should I ever develop another application for a Texas Instruments embedded processor.  
+The driver documentation provided by Texas Instrument was significantly helpful throughout. The reference files for drivers are resources that I am adding to my support network for future projects, whether for an embedded system or not. I am also in contact with a few students from the course who I can consider resources. Code composer studio is a tool that I am adding to my support network should I ever develop another application for a Texas Instruments embedded processor.  
   
 <b>What skills from this project will be particularly transferable to other projects and/or course work?</b>
 
