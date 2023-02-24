@@ -1,4 +1,4 @@
-/* CS350 Project Submission By Paul Kenaga*/
+/* CS350 Project Submission By Paul */
 
 /*
  * Copyright (c) 2015-2020, Texas Instruments Incorporated
@@ -45,7 +45,7 @@
  *  - Output to the server must be formatted as <AA,BB,S,CCCC> where,
  *          AA = ASCII decimal value of room temperature (00 - 99) degrees Celsius
  *          BB = ASCII decimal value of set-point temperature (00-99) degrees Celsius
- *          S = ‘0’ if heat is off, ‘1’ if heat is on
+ *          S = â€˜0â€™ if heat is off, â€˜1â€™ if heat is on
  *          CCCC = decimal count of seconds since board has been reset
  * */
 
@@ -556,7 +556,7 @@ void CheckTemp()
  *  Formatted as <AA,BB,S,CCCC> where:
  *      AA = current_temp = ASCII decimal value of room temperature (00 - 99) degrees Celsius
  *      BB = set_temp = ASCII decimal value of set-point temperature (00-99) degrees Celsius
- *      S = heat_on = ‘0’ if heat is off, ‘1’ if heat is on
+ *      S = heat_on = â€˜0â€™ if heat is off, â€˜1â€™ if heat is on
  *      CCCC = seconds_passed / 1000 = decimal count of seconds since board has been reset
  */
 void OutputToServer()
